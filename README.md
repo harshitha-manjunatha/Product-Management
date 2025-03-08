@@ -23,7 +23,7 @@ Welcome to my **Product Management** journey! This repository is where I’ll be
 - …  
 - **Day 100** – *Final summary & wrap-up*
 
-*(I will update this section with links as new days go live.)*
+Check day-by-day progress [here](https://github.com/harshitha-manjunatha/Product-Management/tree/main/100DaysPMJourney).
 
 ## How to Follow Along
 
